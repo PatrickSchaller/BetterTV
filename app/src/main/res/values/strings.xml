@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_zip_code" translatable="false">54650</string>
+    <string name="home_button_service_description">Opens Better TV when a stock TV home screen appears. Google TV may briefly appear before redirecting. Receives window events only for stock home apps; does not read screen contents, filter keys, or use the network. Turn this service off to access the original home screen normally.</string>
+</resources>
